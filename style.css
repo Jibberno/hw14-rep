@@ -93,4 +93,5 @@ img {
 
 .over {
   grid-area: 2 / 2 / 4 / 4;
+  z-index: 10;
 }
